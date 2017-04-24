@@ -14,6 +14,6 @@ Depends:
     datadr(>= 0.7.5.1),
     trelliscope(>= 0.8.0.6),
     parallel
-License: What license is it under?
+License: MIT License
 LazyData: true
 RoxygenNote: 5.0.1
